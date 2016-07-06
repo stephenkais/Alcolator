@@ -50,6 +50,7 @@
                             <constraint firstItem="e41-O6-Ydj" firstAttribute="centerX" secondItem="Feb-86-hq4" secondAttribute="centerX" id="Bqc-je-KAb"/>
                             <constraint firstItem="Feb-86-hq4" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="34" id="Esj-nL-qhf"/>
                             <constraint firstItem="Y6X-GG-8c9" firstAttribute="top" secondItem="e41-O6-Ydj" secondAttribute="bottom" constant="8" id="Fze-Dp-uu9"/>
+                            <constraint firstItem="jtY-BQ-KQU" firstAttribute="width" secondItem="Y6X-GG-8c9" secondAttribute="width" id="Pan-KO-EB4"/>
                             <constraint firstItem="Y6X-GG-8c9" firstAttribute="centerX" secondItem="e41-O6-Ydj" secondAttribute="centerX" id="Y0G-ed-XTw"/>
                             <constraint firstAttribute="trailingMargin" secondItem="Feb-86-hq4" secondAttribute="trailing" constant="33" id="h2q-RR-nuf"/>
                             <constraint firstAttribute="trailingMargin" secondItem="Feb-86-hq4" secondAttribute="trailing" constant="138" id="mpZ-TU-XPR"/>
